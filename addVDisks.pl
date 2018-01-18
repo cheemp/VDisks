@@ -13,6 +13,8 @@
 #               Accomodated profile names longer than 10 chars
 #
 # Usage: ./addVDisks.pl <hostname> <file containing serial #'s>
+# More comments
+#
 
 $IOSPATH="/usr/ios/cli";
 $ioscli="$IOSPATH/ioscli";
